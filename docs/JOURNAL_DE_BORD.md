@@ -19,6 +19,7 @@ Etapes realisees :
 - Day 08 : fichiers et entrees/sorties
 - Day 09 : introduction a mini_printf
 - Day 10 : introduction a mini_ls
+- Day 11 : mini_printf avance avec bases numeriques
 
 ## Regle du projet
 
