@@ -2,31 +2,33 @@
 
 ## 2026-05-08
 
-Creation du projet epitech-piscine-tek1.
+Projet epitech-piscine-tek1 en progression.
 
-Objectif : apprendre progressivement les bases de la piscine TEK1.
+Etapes realisees :
 
-Actions realisees :
+- Configuration Git et GitHub
+- Installation GCC via MSYS2
+- Installation Make
+- Day 01 : bases C
+- Day 02 : fonctions et strings
+- Day 03 : pointeurs et tableaux
+- Day 04 : introduction a libmy
 
-- Creation du dossier projet
-- Initialisation Git
-- Creation du premier fichier hello.c
-- Installation et configuration de gcc via MSYS2
-- Compilation de hello.c
-- Execution de hello.exe
-- Connexion du projet au repository GitHub
-- Premier push vers GitHub
+## Important
 
-Problemes rencontres :
+Chaque jour doit contenir :
 
-- gcc non reconnu au depart
-- remote GitHub non configure
-- remote temporaire incorrect avec OWNER/REPOSITORY
-- fichiers docs et scripts essayes comme des commandes
+- des exercices
+- une documentation
+- un Makefile
+- un script de test PowerShell
+- un commit Git
+- un push GitHub
 
-Solutions appliquees :
+## Probleme important rencontre
 
-- Ajout de C:\msys64\ucrt64\bin au PATH utilisateur
-- Correction du remote avec git remote set-url
-- Utilisation de notepad pour ouvrir les fichiers .md
-- Utilisation de .\tools\nom_script.ps1 pour lancer les scripts PowerShell
+Dans les Makefile, les lignes de commande doivent commencer par une vraie tabulation.
+
+Dans nos scripts PowerShell, on evite les erreurs en creant les tabulations avec :
+
+$tab = [char]9
