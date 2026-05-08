@@ -1,0 +1,11 @@
+﻿{
+  "store_name": "RLX Tech",
+  "phone": "06 651 86 69",
+  "delivery": "Livraison possible selon la zone.",
+  "products": {
+    "tv": "TV disponibles selon arrivage. Indique la taille souhaitee.",
+    "laptop": "Ordinateurs disponibles : Core i3, i5, i7 selon stock.",
+    "printer": "Imprimantes disponibles selon stock.",
+    "stabilizer": "Stabilisateurs disponibles : 1000VA, 2000VA, 5000VA selon stock."
+  }
+}

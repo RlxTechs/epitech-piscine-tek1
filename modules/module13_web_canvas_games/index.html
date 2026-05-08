@@ -1,0 +1,29 @@
+﻿<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>RLX Web Canvas Game</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="shell">
+    <section class="hero">
+      <p class="eyebrow">Module 13 · Web Canvas Games</p>
+      <h1>RLX Canvas Arcade</h1>
+      <p>Un mini-jeu 2D web avec joueur, pièce, ennemi, score et collisions.</p>
+    </section>
+
+    <section class="game-card">
+      <canvas id="game" width="900" height="540"></canvas>
+      <div class="hud">
+        <span id="score">Score: 0</span>
+        <span id="lives">Lives: 3</span>
+        <span>Touches : flèches ou WASD</span>
+      </div>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
