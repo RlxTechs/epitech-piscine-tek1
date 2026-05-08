@@ -1,0 +1,4 @@
+﻿RLX apprend la piscine TEK1.
+Le langage C demande de la rigueur.
+Chaque jour ajoute une nouvelle competence.
+Git, GCC, Make et PowerShell travaillent ensemble.

@@ -1,0 +1,4 @@
+﻿name=RLX
+level=TEK1
+language=C
+project=epitech-piscine-tek1

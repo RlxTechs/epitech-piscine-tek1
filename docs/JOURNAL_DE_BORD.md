@@ -16,6 +16,7 @@ Etapes realisees :
 - Day 05 : arguments du programme et parsing
 - Day 06 : algorithmes et recursion
 - Day 07 : malloc, memoire dynamique, structs et mini linked list
+- Day 08 : fichiers et entrees/sorties
 
 ## Regle du projet
 
