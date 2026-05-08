@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop Core i5",
+      "category": "Tech",
+      "price": 350000,
+      "stock": 4
+    },
+    {
+      "id": 2,
+      "name": "TV 32 pouces",
+      "category": "Electronics",
+      "price": 120000,
+      "stock": 3
+    },
+    {
+      "id": 3,
+      "name": "Stabilisateur 2000VA",
+      "category": "Electronics",
+      "price": 35000,
+      "stock": 10
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "customer": "Client Demo",
+      "product_id": 1,
+      "product_name": "Laptop Core i5",
+      "quantity": 1,
+      "unit_price": 350000,
+      "total": 350000
+    }
+  ]
+}

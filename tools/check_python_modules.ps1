@@ -27,3 +27,4 @@ foreach ($module in $modules) {
 
 Write-Host ""
 Write-Host "Tous les modules Python/Web sont OK." -ForegroundColor Green
+
