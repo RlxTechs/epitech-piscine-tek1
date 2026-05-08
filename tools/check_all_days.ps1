@@ -10,7 +10,8 @@ $scripts = @(
     ".\tools\check_day02.ps1",
     ".\tools\check_day03.ps1",
     ".\tools\check_day04.ps1",
-    ".\tools\check_day05.ps1"
+    ".\tools\check_day05.ps1",
+    ".\tools\check_day06.ps1"
 )
 
 foreach ($script in $scripts) {

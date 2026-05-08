@@ -14,6 +14,7 @@ Etapes realisees :
 - Day 03 : pointeurs et tableaux
 - Day 04 : introduction a libmy
 - Day 05 : arguments du programme et parsing
+- Day 06 : algorithmes et recursion
 
 ## Regle du projet
 
@@ -26,7 +27,7 @@ Chaque jour doit contenir :
 - un commit Git
 - un push GitHub
 
-## Probleme important rencontre
+## Point technique important
 
 Dans les Makefile, les lignes de commande doivent commencer par une vraie tabulation.
 
