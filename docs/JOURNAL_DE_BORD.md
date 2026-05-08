@@ -18,6 +18,7 @@ Etapes realisees :
 - Day 07 : malloc, memoire dynamique, structs et mini linked list
 - Day 08 : fichiers et entrees/sorties
 - Day 09 : introduction a mini_printf
+- Day 10 : introduction a mini_ls
 
 ## Regle du projet
 
