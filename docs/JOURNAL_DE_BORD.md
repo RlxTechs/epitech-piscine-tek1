@@ -15,6 +15,7 @@ Etapes realisees :
 - Day 04 : introduction a libmy
 - Day 05 : arguments du programme et parsing
 - Day 06 : algorithmes et recursion
+- Day 07 : malloc, memoire dynamique, structs et mini linked list
 
 ## Regle du projet
 
