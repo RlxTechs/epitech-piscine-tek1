@@ -13,8 +13,9 @@ Etapes realisees :
 - Day 02 : fonctions et strings
 - Day 03 : pointeurs et tableaux
 - Day 04 : introduction a libmy
+- Day 05 : arguments du programme et parsing
 
-## Important
+## Regle du projet
 
 Chaque jour doit contenir :
 
