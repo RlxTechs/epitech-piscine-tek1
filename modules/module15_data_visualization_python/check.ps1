@@ -20,6 +20,11 @@ Write-Host ""
 Write-Host "Generation rapport + graphique SVG..." -ForegroundColor Cyan
 python .\app.py
 
+if ($LASTEXITCODE -ne 0) {
+    Write-Host "Generation rapport echouee." -ForegroundColor Red
+    exit 1
+}
+
 Write-Host ""
 Write-Host "Module 15 termine avec succes." -ForegroundColor Green
 Write-Host "Ouvre : .\output\report.txt et .\output\revenue_by_category.svg" -ForegroundColor Yellow

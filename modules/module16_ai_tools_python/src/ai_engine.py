@@ -49,7 +49,7 @@ def classify_intent(text: str) -> IntentResult:
 
 
 def load_memory(path: str | Path) -> dict:
-    with open(path, "r", encoding="utf-8") as file:
+    with open(path, "r", encoding="utf-8-sig") as file:
         return json.load(file)
 
 
@@ -112,3 +112,4 @@ def demo(memory_path: str | Path) -> list[str]:
         "mon imprimante marche pas",
     ]
     return [generate_reply(message, memory) for message in messages]
+

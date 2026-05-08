@@ -1,7 +1,23 @@
-﻿build/
-*.exe
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+# C build
 *.o
-*.a
-.vscode/
-Thumbs.db
+*.exe
+*.out
+
+# Generated outputs
+modules/module15_data_visualization_python/output/
+
+# OS / editor
 .DS_Store
+Thumbs.db
+.vscode/
+.idea/

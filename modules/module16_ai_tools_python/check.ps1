@@ -20,9 +20,19 @@ Write-Host ""
 Write-Host "Demo IA locale..." -ForegroundColor Cyan
 python .\app.py --demo
 
+if ($LASTEXITCODE -ne 0) {
+    Write-Host "Demo IA locale echouee." -ForegroundColor Red
+    exit 1
+}
+
 Write-Host ""
 Write-Host "Test question directe..." -ForegroundColor Cyan
 python .\app.py "tv 32 dispo ?"
+
+if ($LASTEXITCODE -ne 0) {
+    Write-Host "Question directe echouee." -ForegroundColor Red
+    exit 1
+}
 
 Write-Host ""
 Write-Host "Module 16 termine avec succes." -ForegroundColor Green
