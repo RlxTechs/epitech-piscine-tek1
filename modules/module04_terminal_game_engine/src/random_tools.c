@@ -36,3 +36,5 @@ void game_spawn_coin(game_t *game)
     game->coin.x = 1;
     game->coin.y = 1;
 }
+
+

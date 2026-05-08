@@ -32,3 +32,5 @@ int game_run_interactive(void);
 int game_run_scripted(char *script);
 
 #endif
+
+

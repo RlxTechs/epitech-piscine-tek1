@@ -111,3 +111,5 @@ void game_step(game_t *game, char input)
     game_move_enemy(game);
     check_enemy(game);
 }
+
+

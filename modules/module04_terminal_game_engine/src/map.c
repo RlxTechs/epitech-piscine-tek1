@@ -32,3 +32,5 @@ int game_position_equals(position_t a, position_t b)
 {
     return a.x == b.x && a.y == b.y;
 }
+
+

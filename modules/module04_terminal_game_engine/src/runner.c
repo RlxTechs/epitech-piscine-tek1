@@ -10,7 +10,7 @@ int game_run_scripted(char *script)
     game_init(&game, 42);
     printf("=== Scripted terminal game demo ===\\n");
     game_render(&game);
-    while (script[i] != '\\0' && game.running == 1) {
+    while (script[i] != '\0' && game.running == 1) {
         printf("\\nInput: %c\\n", script[i]);
         game_step(&game, script[i]);
         game_render(&game);
@@ -39,3 +39,5 @@ int game_run_interactive(void)
     printf("Game over. Final score: %d\\n", game.score);
     return 0;
 }
+
+

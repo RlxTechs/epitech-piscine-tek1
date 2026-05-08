@@ -38,7 +38,9 @@ void game_render(game_t *game)
             putchar(get_cell(game, x, y));
             x = x + 1;
         }
-        putchar('\\n');
+        putchar('\n');
         y = y + 1;
     }
 }
+
+
