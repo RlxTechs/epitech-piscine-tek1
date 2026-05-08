@@ -1,0 +1,3 @@
+﻿Mini grep cherche un mot dans un fichier.
+Un outil terminal doit etre simple et clair.
+RLX progresse avec Git, GCC, Make et PowerShell.

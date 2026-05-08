@@ -1,0 +1,6 @@
+﻿RLX apprend le langage C.
+La piscine TEK1 demande de la rigueur.
+GitHub permet de suivre la progression.
+Le C utilise des pointeurs, des strings et des fichiers.
+rlx construit un vrai laboratoire de code.
+Chaque exercice renforce la logique.

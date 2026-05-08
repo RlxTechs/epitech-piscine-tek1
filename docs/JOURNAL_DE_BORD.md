@@ -21,6 +21,7 @@ Etapes realisees :
 - Day 10 : introduction a mini_ls
 - Day 11 : mini_printf avance avec bases numeriques
 - Day 12 : mini shell intro
+- Day 13 : mini grep intro
 
 ## Regle du projet
 

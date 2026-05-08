@@ -17,7 +17,8 @@ $scripts = @(
     ".\tools\check_day09.ps1",
     ".\tools\check_day10.ps1",
     ".\tools\check_day11.ps1",
-    ".\tools\check_day12.ps1"
+    ".\tools\check_day12.ps1",
+    ".\tools\check_day13.ps1"
 )
 
 foreach ($script in $scripts) {
