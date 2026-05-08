@@ -22,6 +22,7 @@ Etapes realisees :
 - Day 11 : mini_printf avance avec bases numeriques
 - Day 12 : mini shell intro
 - Day 13 : mini grep intro
+- Day 14 : tests automatiques et debug en C
 
 ## Regle du projet
 
